@@ -1,0 +1,7 @@
+{
+  "name": "BharatRent PG Manager",
+  "description": "A comprehensive PG and Rent management solution for property owners and tenants in India, featuring automated rent tracking, complaint management, and role-based access control.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
